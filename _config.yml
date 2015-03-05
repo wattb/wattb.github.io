@@ -1,0 +1,11 @@
+# Site settings
+title: Placeholder Title
+email: wattb@wattb.eu
+description: > # this means to ignore newlines until "baseurl:"
+  Who needs a description?
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "wattb.github.io" # the base hostname & protocol for your site
+github_username:  wattb
+
+# Build settings
+markdown: kramdown
